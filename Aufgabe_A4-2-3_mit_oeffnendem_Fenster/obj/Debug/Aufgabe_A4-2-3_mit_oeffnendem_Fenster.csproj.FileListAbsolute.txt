@@ -1,0 +1,11 @@
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\Aufgabe_A4-2-3_mit_oeffnendem_Fenster\bin\Debug\Aufgabe_A4-2-3_mit_oeffnendem_Fenster.exe.config
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\Aufgabe_A4-2-3_mit_oeffnendem_Fenster\bin\Debug\Aufgabe_A4-2-3_mit_oeffnendem_Fenster.exe
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\Aufgabe_A4-2-3_mit_oeffnendem_Fenster\bin\Debug\Aufgabe_A4-2-3_mit_oeffnendem_Fenster.pdb
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\Aufgabe_A4-2-3_mit_oeffnendem_Fenster\obj\Debug\Aufgabe_A4-2-3_mit_oeffnendem_Fenster.csproj.AssemblyReference.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\Aufgabe_A4-2-3_mit_oeffnendem_Fenster\obj\Debug\Aufgabe_A4-2-3_mit_oeffnendem_Fenster.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\Aufgabe_A4-2-3_mit_oeffnendem_Fenster\obj\Debug\Aufgabe_A4_2_3_mit_oeffnendem_Fenster.Form1.resources
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\Aufgabe_A4-2-3_mit_oeffnendem_Fenster\obj\Debug\Aufgabe_A4_2_3_mit_oeffnendem_Fenster.Properties.Resources.resources
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\Aufgabe_A4-2-3_mit_oeffnendem_Fenster\obj\Debug\Aufgabe_A4-2-3_mit_oeffnendem_Fenster.csproj.GenerateResource.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\Aufgabe_A4-2-3_mit_oeffnendem_Fenster\obj\Debug\Aufgabe_A4-2-3_mit_oeffnendem_Fenster.csproj.CoreCompileInputs.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\Aufgabe_A4-2-3_mit_oeffnendem_Fenster\obj\Debug\Aufgabe_A4-2-3_mit_oeffnendem_Fenster.exe
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\Aufgabe_A4-2-3_mit_oeffnendem_Fenster\obj\Debug\Aufgabe_A4-2-3_mit_oeffnendem_Fenster.pdb

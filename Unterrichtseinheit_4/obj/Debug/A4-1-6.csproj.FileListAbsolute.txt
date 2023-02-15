@@ -1,0 +1,11 @@
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\Unterrichtseinheit_4\bin\Debug\Unterrichtseinheit_4.exe.config
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\Unterrichtseinheit_4\bin\Debug\Unterrichtseinheit_4.exe
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\Unterrichtseinheit_4\bin\Debug\Unterrichtseinheit_4.pdb
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\Unterrichtseinheit_4\obj\Debug\A4-1-6.csproj.AssemblyReference.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\Unterrichtseinheit_4\obj\Debug\A4-1-6.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\Unterrichtseinheit_4\obj\Debug\Unterrichtseinheit_4.Form1.resources
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\Unterrichtseinheit_4\obj\Debug\Unterrichtseinheit_4.Properties.Resources.resources
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\Unterrichtseinheit_4\obj\Debug\A4-1-6.csproj.GenerateResource.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\Unterrichtseinheit_4\obj\Debug\A4-1-6.csproj.CoreCompileInputs.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\Unterrichtseinheit_4\obj\Debug\Unterrichtseinheit_4.exe
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\Unterrichtseinheit_4\obj\Debug\Unterrichtseinheit_4.pdb

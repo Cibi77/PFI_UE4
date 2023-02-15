@@ -1,0 +1,11 @@
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\A4-1-8\obj\Debug\A4-1-8_Stromrechner.csproj.AssemblyReference.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\A4-1-8\obj\Debug\A4-1-8_Stromrechner.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\A4-1-8\obj\Debug\A4_1_8.Form1.resources
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\A4-1-8\obj\Debug\A4_1_8.Properties.Resources.resources
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\A4-1-8\obj\Debug\A4-1-8_Stromrechner.csproj.GenerateResource.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\A4-1-8\obj\Debug\A4-1-8_Stromrechner.csproj.CoreCompileInputs.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\A4-1-8\bin\Debug\A4-1-8.exe.config
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\A4-1-8\bin\Debug\A4-1-8.exe
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\A4-1-8\bin\Debug\A4-1-8.pdb
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\A4-1-8\obj\Debug\A4-1-8.exe
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_4\A4-1-8\obj\Debug\A4-1-8.pdb
